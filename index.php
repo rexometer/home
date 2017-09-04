@@ -20,14 +20,14 @@
 <title>RExometer - Startseite</title>
 <style type="text/css">
 body {
-	background-color: #bcbcbc;
+	background-color: #fff;
 }
 </style>
 </head>
 
 <body>
 
-<p><center><img src="<?php echo $path; ?>Modules/home/images/Logo_RExometer_web_retina.png" width="266" height="80" /></center></p>
+<p><center><img src="<?php echo $path; ?>Modules/home/images/logo.svg" width="266" height="80" /></center></p>
 <table width="100%" border="0" cellspacing="5" cellpadding="5">
   <tr>
     <td align="center" valign="middle"><p>
